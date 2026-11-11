@@ -702,9 +702,7 @@ function App() {
           © 2026 Saqib Nazir. All rights reserved.
         </p>
 
-        <p>
-          Built with React.js • Node.js • MySQL
-        </p>
+        
 
       </footer>
 
