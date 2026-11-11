@@ -701,13 +701,11 @@ function App() {
         <p>
           © 2026 Saqib Nazir. All rights reserved.
         </p>
-
-        
-
       </footer>
 
     </div>
   );
 }
+
 
 export default App;
